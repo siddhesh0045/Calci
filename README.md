@@ -14,6 +14,7 @@ This is a simple calculator created using HTML, CSS, and JavaScript. It allows u
 - Responsive design
 
 
-##![Project Screenshot](photo1.png)
+##Screenshot
+![Project Screenshot](photo1.png)
 
 
