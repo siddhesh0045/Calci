@@ -69,3 +69,18 @@ body{
 #one1{
     color: orange;
 }
+.center-container{
+    margin-top: 3%;
+}
+
+
+  #aboutme{
+    text-decoration: none;
+    background-color: black;
+    border: 1px solid white;
+    padding: 1%;
+    border-radius: 5%;
+  }
+  #aboutme:hover{
+    background-color: rgb(53, 52, 52);
+  }
