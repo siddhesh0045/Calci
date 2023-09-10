@@ -60,6 +60,7 @@ switch(this.operation){
          else{
         computation = prev /current;
          }
+         break;
     case '%':
         computation = prev % current;
         break;
